@@ -4,6 +4,18 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/speech?activeTab=versions
 
+## [4.10.0](https://www.github.com/googleapis/nodejs-speech/compare/v4.9.0...v4.10.0) (2021-12-06)
+
+
+### Features
+
+* add alternative_language_codes to RecognitionConfig ([#824](https://www.github.com/googleapis/nodejs-speech/issues/824)) ([f5cfad6](https://www.github.com/googleapis/nodejs-speech/commit/f5cfad6ba198ae109679feac84340b7f83c236fa))
+* add hint boost in SpeechContext ([f5cfad6](https://www.github.com/googleapis/nodejs-speech/commit/f5cfad6ba198ae109679feac84340b7f83c236fa))
+* add SpeechAdaptation configuration ([f5cfad6](https://www.github.com/googleapis/nodejs-speech/commit/f5cfad6ba198ae109679feac84340b7f83c236fa))
+* add spoken punctuation and spoken emojis ([f5cfad6](https://www.github.com/googleapis/nodejs-speech/commit/f5cfad6ba198ae109679feac84340b7f83c236fa))
+* add WEBM_OPUS codec ([f5cfad6](https://www.github.com/googleapis/nodejs-speech/commit/f5cfad6ba198ae109679feac84340b7f83c236fa))
+* add word confidence ([f5cfad6](https://www.github.com/googleapis/nodejs-speech/commit/f5cfad6ba198ae109679feac84340b7f83c236fa))
+
 ## [4.9.0](https://www.github.com/googleapis/nodejs-speech/compare/v4.8.1...v4.9.0) (2021-09-20)
 
 
